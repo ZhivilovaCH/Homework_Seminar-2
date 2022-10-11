@@ -7,7 +7,11 @@ if (x>=1 && x<6)
 {
     Console.WriteLine("Будний день");
 }
-else if (x==6 && x==7) 
+else if (x==6) 
+{
+    Console.WriteLine("Выходной");
+}
+else if (x==7) 
 {
     Console.WriteLine("Выходной");
 }

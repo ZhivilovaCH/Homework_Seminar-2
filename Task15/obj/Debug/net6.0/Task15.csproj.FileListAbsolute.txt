@@ -1,0 +1,15 @@
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\bin\Debug\net6.0\Task15.exe
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\bin\Debug\net6.0\Task15.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Users\krish\OneDrive\Документы\Обучение GB, Аналитика\3. С#.Лекция 2\Homework_Seminar 2\Seminar2\Task15\obj\Debug\net6.0\ref\Task15.dll
