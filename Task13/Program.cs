@@ -2,16 +2,18 @@
 Console.Clear();
 Console.WriteLine("Введите число от 0 до 100 000:");
 int num = int.Parse(Console.ReadLine()!);
-int x1 = 0;
-int x2 = 0;
 
-if (num>100 && num<100000)
+if(num>=100)
 {
-    x1 = num/10;
-    x2 = x1%10;
-    Console.WriteLine($"Третья цифра указанного числа{num}->{x2} ");
+while(num >=1000)
+{
+   num= num/10;
 }
-else 
+int x1 = num%10;
+Console.WriteLine($"Третья цифра числа {x1}");
+}
+
+if(num<100)
 {
-    Console.WriteLine("Третьей цифры нет");
+    Console.WriteLine($"Третья цифра не существует");
 }
